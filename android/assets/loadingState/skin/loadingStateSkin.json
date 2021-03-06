@@ -1,0 +1,7 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.ProgressBar$ProgressBarStyle": {
+
+    "loading_bar": { "background": "loading_bar_bg", "knob": "loading_bar_fg" }
+
+  }
+}

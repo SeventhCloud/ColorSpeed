@@ -1,0 +1,19 @@
+
+loadingStateTextures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+loading_bar_bg
+  rotate: false
+  xy: 0, 8
+  size: 364, 15
+  orig: 364, 15
+  offset: 0, 0
+  index: -1
+loading_bar_fg
+  rotate: false
+  xy: 0, 0
+  size: 277, 7
+  orig: 277, 7
+  offset: 0, 0
+  index: -1

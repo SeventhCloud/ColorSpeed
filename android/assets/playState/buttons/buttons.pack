@@ -1,0 +1,33 @@
+
+buttons.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+blue_button
+  rotate: false
+  xy: 1, 16
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+red_button
+  rotate: false
+  xy: 1, 1
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+lilac_button
+  rotate: false
+  xy: 30, 17
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+yellow_button
+  rotate: false
+  xy: 30, 3
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1

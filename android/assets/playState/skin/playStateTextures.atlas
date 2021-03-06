@@ -1,0 +1,103 @@
+
+playStateTextures.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+enemy_red
+  rotate: false
+  xy: 1, 19
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+enemy_blue
+  rotate: false
+  xy: 103, 19
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+enemy_lilac
+  rotate: false
+  xy: 205, 19
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+enemy_yellow
+  rotate: false
+  xy: 307, 19
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+heart_sprite_sheet
+  rotate: false
+  xy: 1, 1
+  size: 76, 16
+  orig: 76, 16
+  offset: 0, 0
+  index: -1
+player_sprite
+  rotate: false
+  xy: 409, 105
+  size: 56, 14
+  orig: 56, 14
+  offset: 0, 0
+  index: -1
+actual_color_blue
+  rotate: false
+  xy: 409, 78
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+actual_color_lilac
+  rotate: false
+  xy: 409, 51
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+actual_color_red
+  rotate: false
+  xy: 409, 24
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+actual_color_yellow
+  rotate: false
+  xy: 467, 94
+  size: 35, 25
+  orig: 35, 25
+  offset: 0, 0
+  index: -1
+blue_button
+  rotate: false
+  xy: 79, 5
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+lilac_button
+  rotate: false
+  xy: 107, 5
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+red_button
+  rotate: false
+  xy: 135, 5
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1
+yellow_button
+  rotate: false
+  xy: 163, 5
+  size: 26, 12
+  orig: 26, 12
+  offset: 0, 0
+  index: -1

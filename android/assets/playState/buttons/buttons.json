@@ -1,0 +1,6 @@
+{
+  "com.badlogic.gdx.scenes.scene2d.ui.ImageButton$ImageButtonStyle": {
+
+    "default": {"red": "red_button", "blue": "blue_button", "yellow": "yellow_button", "lilac": "lilac_button"}
+  }
+}

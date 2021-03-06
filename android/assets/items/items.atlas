@@ -1,0 +1,68 @@
+
+items.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+protector
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+bluePotionMid
+  rotate: false
+  xy: 19, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+bluePotionSmall
+  rotate: false
+  xy: 37, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+greenPotionMid
+  rotate: false
+  xy: 55, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+greenPotionSmall
+  rotate: false
+  xy: 73, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+redPotionMid
+  rotate: false
+  xy: 91, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+redPotionSmall
+  rotate: false
+  xy: 109, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+yellowPotionMid
+  rotate: false
+  xy: 127, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+yellowPotionSmall
+  rotate: false
+  xy: 145, 2
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1

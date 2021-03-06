@@ -1,0 +1,64 @@
+{
+  "items": {
+
+    "wearableItems": {
+
+      "protector": {
+        "id"   : "0",
+        "price": "200"
+      }
+    },
+
+    "consumableItems": {
+
+      "bluePotionSmall": {
+        "id"   : "10",
+        "price": "50"
+      },
+      "redPotionSmall": {
+        "id"   : "11",
+        "price": "25"
+      },
+      "yellowPotionSmall": {
+        "id"   : "12",
+        "price": "60"
+      },
+      "greenPotionSmall": {
+        "id"   : "13",
+        "price": "50"
+      },
+      "bluePotionMid": {
+        "id"   : "14",
+        "price": "100"
+      },
+      "redPotionMid": {
+        "id"   : "15",
+        "price": "50"
+      },
+      "yellowPotionSmall": {
+        "id"   : "16",
+        "price": "120"
+      },
+      "greenPotionSmall": {
+        "id"   : "17",
+        "price": "80"
+      },
+      "bluePotionSmall": {
+        "id"   : "18",
+        "price": "180"
+      },
+      "redPotionSmall": {
+        "id"   : "19",
+        "price": "100"
+      },
+      "yellowPotionSmall": {
+        "id"   : "20",
+        "price": "200"
+      },
+      "greenPotionSmall": {
+        "id"   : "21",
+        "price": "100"
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+
+  "com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle":{
+
+    "red": {
+      "up"  :  "red_button",
+      "down":  "red_button"},
+
+    "yellow": {
+      "up"  :  "yellow_button",
+      "down":  "yellow_button"},
+
+    "blue": {
+      "up"  :  "blue_button",
+      "down":  "blue_button"},
+
+    "lilac": {
+      "up"  :  "lilac_button",
+      "down":  "lilac_button"
+    }
+  }
+
+}

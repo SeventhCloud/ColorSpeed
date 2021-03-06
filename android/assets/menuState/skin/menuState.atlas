@@ -1,0 +1,47 @@
+
+menuState.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+music_button_normal
+  rotate: false
+  xy: 1, 41
+  size: 115, 20
+  orig: 115, 20
+  offset: 0, 0
+  index: -1
+music_button_pressed
+  rotate: false
+  xy: 1, 19
+  size: 115, 20
+  orig: 115, 20
+  offset: 0, 0
+  index: -1
+title
+  rotate: false
+  xy: 118, 54
+  size: 72, 7
+  orig: 72, 7
+  offset: 0, 0
+  index: -1
+start_button
+  rotate: false
+  xy: 118, 16
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+shopSlot
+  rotate: false
+  xy: 1, 1
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+textfield_background
+  rotate: false
+  xy: 156, 40
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
